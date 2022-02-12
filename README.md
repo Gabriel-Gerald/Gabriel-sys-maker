@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ; email
                              gabrielgatimu752@gmail.com
-                             geraldg652@gmail.com
+                             
 
 <!---
 Gabriel-sys-maker/Gabriel-sys-maker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
